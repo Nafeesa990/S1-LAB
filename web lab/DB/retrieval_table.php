@@ -21,7 +21,7 @@ $r=$c->query($ret);
     <body>
     <center>
         <form>
-            <table border="1">
+            <table border="1" width="220px">
                 <tr>
                     <th>ID</th>
                      <th>NAME</th>
