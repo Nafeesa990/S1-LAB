@@ -29,7 +29,7 @@ if($c->connect_error)
                 <td colspan="2"><center><input type="submit" name="s"></center></td>
             </tr>
             <tr>
-                <td><a href="retrieval_table.php">Display</a></td>
+                <td colspan="2"><center><a href="retrieval_table.php">Display</center></a></td>
             </tr>
         </table>
         </form>
